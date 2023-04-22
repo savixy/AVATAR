@@ -49,6 +49,26 @@
                 0
             ]
         },
+	{
+            "id": "Conveyor",
+            "type": "https://w3id.org/ontoeng/factory#Conveyor",
+            "representations": [
+                {
+                    "file": "Conveyor.glb",
+                    "unit": 1
+                }
+            ],
+            "position": [
+                0,
+                0,
+                0
+            ],
+            "rotation": [
+                0,
+                0,
+                0
+            ]
+        },
         {
             "id": "comau_ns16hand",
             "type": "https://w3id.org/ontoeng/factory#Robot",
@@ -355,27 +375,7 @@
             ],
             "placementRelTo": "comau_ns16hand.Joint_6",
             "parentObject": "comau_ns16hand.Joint_6"
-        },
-		{
-            "id": "Conveyor",
-            "type": "https://w3id.org/ontoeng/factory#Conveyor",
-            "representations": [
-                {
-                    "file": "Conveyor.glb",
-                    "unit": 1
-                }
-            ],
-            "position": [
-                0,
-                0,
-                0
-            ],
-            "rotation": [
-                0,
-                0,
-                0
-            ],
-            "placementRelTo": "lab_building"
         }
+	
     ]
 }
