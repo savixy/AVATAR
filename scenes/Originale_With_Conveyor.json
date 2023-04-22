@@ -20,7 +20,8 @@
         "comau_ns16hand.Link_4",
         "comau_ns16hand.Link_5",
         "comau_ns16hand.Link_6",
-	"Conveyor"
+	"Conveyor",
+    	"Base"
     ],
     "assets": [
         {
