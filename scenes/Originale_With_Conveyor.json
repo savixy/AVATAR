@@ -69,6 +69,26 @@
                 0
             ]
         },
+	{
+            "id": "Base",
+            "type": "https://w3id.org/ontoeng/factory#Artifact",
+            "representations": [
+                {
+                    "file": "base.glb",
+                    "unit": 1
+                }
+            ],
+            "position": [
+                0,
+                0,
+                0
+            ],
+            "rotation": [
+                0,
+                0,
+                0
+            ]
+        },
         {
             "id": "comau_ns16hand",
             "type": "https://w3id.org/ontoeng/factory#Robot",
