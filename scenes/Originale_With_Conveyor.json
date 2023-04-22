@@ -21,7 +21,7 @@
         "comau_ns16hand.Link_5",
         "comau_ns16hand.Link_6",
 	"Conveyor",
-    	"Base"
+    	"base"
     ],
     "assets": [
         {
@@ -71,7 +71,7 @@
             ]
         },
 	{
-            "id": "Base",
+            "id": "base",
             "type": "https://w3id.org/ontoeng/factory#Artifact",
             "representations": [
                 {
