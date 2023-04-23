@@ -21,7 +21,8 @@
         "comau_ns16hand.Link_5",
         "comau_ns16hand.Link_6",
 	"Conveyor",
-    	"base"
+    	"base",
+    	"picker"
     ],
     "assets": [
         {
@@ -396,6 +397,28 @@
             ],
             "placementRelTo": "comau_ns16hand.Joint_6",
             "parentObject": "comau_ns16hand.Joint_6"
+        },
+	{
+            "id": "picker",
+            "type": "https://w3id.org/ontoeng/factory#Artifact",
+            "representations": [
+                {
+                    "file": "picker.glb",
+                    "unit": 1
+                }
+            ],
+            "position": [
+                0,
+                0,
+                0
+            ],
+            "rotation": [
+                0,
+                0,
+                0
+            ],
+            "placementRelTo": "comau_ns16hand.Link_6",
+            "parentObject": "comau_ns16hand.Link_6"
         }
 	
     ]
