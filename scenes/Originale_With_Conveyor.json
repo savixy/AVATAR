@@ -110,9 +110,7 @@
                 0,
                 0
             ]
-	"placementRelTo": "comau_ns16hand.Joint_6",
-        
-        },
+	},
         {
             "id": "comau_ns16hand",
             "type": "https://w3id.org/ontoeng/factory#Robot",
