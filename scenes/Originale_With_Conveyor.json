@@ -21,7 +21,7 @@
         "comau_ns16hand.Link_5",
         "comau_ns16hand.Link_6",
 	"Conveyor",
-    	"base",
+    	"Base",
     	"picker"
     ],
     "assets": [
@@ -72,11 +72,11 @@
             ]
         },
 	{
-            "id": "base",
+            "id": "Base",
             "type": "https://w3id.org/ontoeng/factory#Artifact",
             "representations": [
                 {
-                    "file": "base.glb",
+                    "file": "Base.glb",
                     "unit": 1
                 }
             ],
