@@ -21,8 +21,8 @@
         "comau_ns16hand.Link_5",
         "comau_ns16hand.Link_6",
 	"Conveyor",
-    	"Base",
-    	"tool"
+    	"base",
+    	"picker"
     ],
     "assets": [
         {
@@ -72,11 +72,11 @@
             ]
         },
 	{
-            "id": "Base",
+            "id": "base",
             "type": "https://w3id.org/ontoeng/factory#Artifact",
             "representations": [
                 {
-                    "file": "Base.glb",
+                    "file": "base.glb",
                     "unit": 1
                 }
             ],
@@ -92,11 +92,11 @@
             ]
         },
 	{
-            "id": "tool",
+            "id": "picker",
             "type": "https://w3id.org/ontoeng/factory#Artifact",
             "representations": [
                 {
-                    "file": "tool.glb",
+                    "file": "picker.glb",
                     "unit": 1
                 }
             ],
@@ -113,7 +113,7 @@
 	    "placementRelTo": "comau_ns16hand.Link_6",
 		"parentObject": "comau_ns16hand.Link_6"
         },
-	{
+        {
             "id": "comau_ns16hand",
             "type": "https://w3id.org/ontoeng/factory#Robot",
             "representations": [
@@ -419,8 +419,7 @@
             ],
             "placementRelTo": "comau_ns16hand.Joint_6",
             "parentObject": "comau_ns16hand.Joint_6"
-        },
-	
+        }
 	
     ]
 }
