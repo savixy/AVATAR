@@ -76,7 +76,7 @@ The workflow for creating an XR environment turns out to be much broader than wh
 
 ||<p><br>**CONTROLS:**</p><p>Model specifications - Tracking rate - Technical datasheets</p>| |
 | :-: | :-: | :-: |
-|**INPUTS:**<br>2D part drawings - models library|![scenecreation](img1.png)|**OUTPUTS:**<br>XR Scene with assets and avatar|
+|**INPUTS:**<br>2D part drawings - models library|![scenecreation](img1.PNG)|**OUTPUTS:**<br>XR Scene with assets and avatar|
 | |<p>**RESOURCES:**</p><p>2D CAD editor - 3D CAD modeler - Rendering engine - XR Platform - Tracking system</p>| |
 
 A1 Geometry modelling PART - A2 Geometry modelling SUBASSEMBLY - A3 Human worker geometric modelling AVATAR - **A4 Geometric model SCENE CREATION -** A5 XR Environment Definition
@@ -89,11 +89,11 @@ We now focus on the IDEF0 diagram of A4 step. It is a tool developed to describe
 
 The following image is schematizing the whole process:
 
-![](img2.png)
+![](img2.PNG)
 
 Meanwhile, this is specific for the software used in the examples:
 
-![](img3.jpeg)
+![](img3.PNG)
 
 Each chapter of this guide describes all the activities shown in the diagram with the relative input/outputs and necessary digital tools. For each of the activities is described the procedure with input/outputs, mechanisms, and the activities necessary to complete them. A practical example is then explained to facilitate the comprehension of the specific argument.
 
@@ -159,7 +159,7 @@ The file template can be found in the folder “” and is named “Excel\_Templ
 - **Zup convention:** VEB.js use the Yup convention. It is important to be aware of the convention used in the 3D visualizer.
 - **Repository location:** path where the 3D models can be found. This is not mandatory since in the VEB.js link we are going to refer again to this repository.
 
-![](img4.png)
+![](img4.PNG)
 
 More details can be found at the following link: <https://virtualfactory.gitbook.io/vlft/kb/instantiation/assets/spreadsheet>
 
