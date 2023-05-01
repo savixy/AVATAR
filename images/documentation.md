@@ -241,6 +241,8 @@ This data flow ensures that the robot's movements are accurately represented in 
 
 Overall, this data flow allows for the accurate simulation of the real robot's movements in the virtual factory environment, based on the joint states data provided by the real system.
 
+![](img6.jpg)
+
 **JSON file for animation:**
 
 This JSON schema is used for defining animations in a factory model. The schema has three root properties: "context," "nodes," and "sequences." The "context" property includes several optional properties, including the unit of measure scale, the repository path where 3D models and animation sequences can be found, and Boolean values to determine whether asset trails should be displayed and the conventions (zup or yup) for the 3-D cartesian coordinate system. The "nodes" property includes an array of items, each of which represents an asset in the model and has an "id" property and an "actions" array that specifies what happens during the animation. The "sequences" property also includes an array of items, each of which represents an animation sequence and has an "id" property, a frames per second value, and arrays of positions, rotations, and scales for each frame. The schema is designed to be easy for humans and machines to read and write.
