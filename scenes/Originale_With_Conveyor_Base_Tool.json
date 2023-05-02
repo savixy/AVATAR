@@ -22,7 +22,8 @@
         "comau_ns16hand.Link_6",
 	"Conveyor",
     	"base",
-    	"tool"
+    	"tool",
+	"base_tool"
     ],
     "assets": [
         {
@@ -108,6 +109,28 @@
             "rotation": [
                 0,
                 1.5708,
+                0
+            ],
+	    "placementRelTo": "comau_ns16hand.Link_6",
+		"parentObject": "comau_ns16hand.Link_6"
+        },
+	{
+            "id": "base_tool",
+            "type": "https://w3id.org/ontoeng/factory#Artifact",
+            "representations": [
+                {
+                    "file": "base_tool.glb",
+                    "unit": 1
+                }
+            ],
+            "position": [
+                0,
+                0,
+                0
+            ],
+            "rotation": [
+                0,
+                0,
                 0
             ],
 	    "placementRelTo": "comau_ns16hand.Link_6",
