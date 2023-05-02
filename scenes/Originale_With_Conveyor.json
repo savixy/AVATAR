@@ -102,12 +102,12 @@
             ],
             "position": [
                 0,
-                0,
+                0.01,
                 0
             ],
             "rotation": [
                 0,
-                0,
+                3.14159,
                 0
             ],
 	    "placementRelTo": "comau_ns16hand.Link_6",
