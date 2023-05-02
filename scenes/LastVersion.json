@@ -422,11 +422,11 @@
         }
 	
     {
-            "id": "comau_ns16hand",
+            "id": "comau_ns16hand_2",
             "type": "https://w3id.org/ontoeng/factory#Robot",
             "representations": [
                 {
-                    "file": "comau_ns16hand.glb",
+                    "file": "comau_ns16hand_2.glb",
                     "unit": 1
                 }
             ],
@@ -443,11 +443,11 @@
             "placementRelTo": "lab_building"
         },
         {
-            "id": "comau_ns16hand.base_link",
+            "id": "comau_ns16hand_2.base_link",
             "type": "https://standards.buildingsmart.org/IFC/DEV/IFC4/ADD1/OWL#IfcElementAssembly",
             "representations": [
                 {
-                    "file": "comau_ns16hand.glb#base_link",
+                    "file": "comau_ns16hand_2.glb#base_link",
                     "unit": 1
                 }
             ],
@@ -461,15 +461,15 @@
                 0,
                 0
             ],
-            "placementRelTo": "comau_ns16hand",
-            "parentObject": "comau_ns16hand"
+            "placementRelTo": "comau_ns16hand_2",
+            "parentObject": "comau_ns16hand_2"
         },
         {
-            "id": "comau_ns16hand.Joint_1",
+            "id": "comau_ns16hand_2.Joint_1",
             "type": "https://standards.buildingsmart.org/IFC/DEV/IFC4/ADD1/OWL#IfcElementAssembly",
             "representations": [
                 {
-                    "file": "comau_ns16hand.glb#Joint_1",
+                    "file": "comau_ns16hand_2.glb#Joint_1",
                     "unit": 1
                 }
             ],
@@ -483,15 +483,15 @@
                 3.14158530717958,
                 -3.14158530717958
             ],
-            "placementRelTo": "comau_ns16hand.base_link",
-            "parentObject": "comau_ns16hand.base_link"
+            "placementRelTo": "comau_ns16hand_2.base_link",
+            "parentObject": "comau_ns16hand_2.base_link"
         },
         {
-            "id": "comau_ns16hand.Joint_2",
+            "id": "comau_ns16hand_2.Joint_2",
             "type": "https://standards.buildingsmart.org/IFC/DEV/IFC4/ADD1/OWL#IfcElementAssembly",
             "representations": [
                 {
-                    "file": "comau_ns16hand.glb#Joint_2",
+                    "file": "comau_ns16hand_2.glb#Joint_2",
                     "unit": 1
                 }
             ],
@@ -505,15 +505,15 @@
                 3.14158530717958,
                 0
             ],
-            "placementRelTo": "comau_ns16hand.Link_1",
-            "parentObject": "comau_ns16hand.Link_1"
+            "placementRelTo": "comau_ns16hand_2.Link_1",
+            "parentObject": "comau_ns16hand_2.Link_1"
         },
         {
-            "id": "comau_ns16hand.Joint_3",
+            "id": "comau_ns16hand_2.Joint_3",
             "type": "https://standards.buildingsmart.org/IFC/DEV/IFC4/ADD1/OWL#IfcElementAssembly",
             "representations": [
                 {
-                    "file": "comau_ns16hand.glb#Joint_3",
+                    "file": "comau_ns16hand_2.glb#Joint_3",
                     "unit": 1
                 }
             ],
@@ -527,15 +527,15 @@
                 -1.5708,
                 -3.14158530717958
             ],
-            "placementRelTo": "comau_ns16hand.Link_2",
-            "parentObject": "comau_ns16hand.Link_2"
+            "placementRelTo": "comau_ns16hand_2.Link_2",
+            "parentObject": "comau_ns16hand_2.Link_2"
         },
         {
-            "id": "comau_ns16hand.Joint_4",
+            "id": "comau_ns16hand_2.Joint_4",
             "type": "https://standards.buildingsmart.org/IFC/DEV/IFC4/ADD1/OWL#IfcElementAssembly",
             "representations": [
                 {
-                    "file": "comau_ns16hand.glb#Joint_4",
+                    "file": "comau_ns16hand_2.glb#Joint_4",
                     "unit": 1
                 }
             ],
@@ -549,15 +549,15 @@
                 1.5708,
                 0
             ],
-            "placementRelTo": "comau_ns16hand.Link_3",
-            "parentObject": "comau_ns16hand.Link_3"
+            "placementRelTo": "comau_ns16hand_2.Link_3",
+            "parentObject": "comau_ns16hand_2.Link_3"
         },
         {
-            "id": "comau_ns16hand.Joint_5",
+            "id": "comau_ns16hand_2.Joint_5",
             "type": "https://standards.buildingsmart.org/IFC/DEV/IFC4/ADD1/OWL#IfcElementAssembly",
             "representations": [
                 {
-                    "file": "comau_ns16hand.glb#Joint_5",
+                    "file": "comau_ns16hand_2.glb#Joint_5",
                     "unit": 1
                 }
             ],
@@ -571,15 +571,15 @@
                 1.5708,
                 -1.5708
             ],
-            "placementRelTo": "comau_ns16hand.Link_4",
-            "parentObject": "comau_ns16hand.Link_4"
+            "placementRelTo": "comau_ns16hand_2.Link_4",
+            "parentObject": "comau_ns16hand_2.Link_4"
         },
         {
-            "id": "comau_ns16hand.Joint_6",
+            "id": "comau_ns16hand_2.Joint_6",
             "type": "https://standards.buildingsmart.org/IFC/DEV/IFC4/ADD1/OWL#IfcElementAssembly",
             "representations": [
                 {
-                    "file": "comau_ns16hand.glb#Joint_6",
+                    "file": "comau_ns16hand_2.glb#Joint_6",
                     "unit": 1
                 }
             ],
@@ -593,15 +593,15 @@
                 -1.5708,
                 0
             ],
-            "placementRelTo": "comau_ns16hand.Link_5",
-            "parentObject": "comau_ns16hand.Link_5"
+            "placementRelTo": "comau_ns16hand_2.Link_5",
+            "parentObject": "comau_ns16hand_2.Link_5"
         },
         {
-            "id": "comau_ns16hand.Link_1",
+            "id": "comau_ns16hand_2.Link_1",
             "type": "https://standards.buildingsmart.org/IFC/DEV/IFC4/ADD1/OWL#IfcElementAssembly",
             "representations": [
                 {
-                    "file": "comau_ns16hand.glb#Link_1",
+                    "file": "comau_ns16hand_2.glb#Link_1",
                     "unit": 1
                 }
             ],
@@ -615,15 +615,15 @@
                 0,
                 0
             ],
-            "placementRelTo": "comau_ns16hand.Joint_1",
-            "parentObject": "comau_ns16hand.Joint_1"
+            "placementRelTo": "comau_ns16hand_2.Joint_1",
+            "parentObject": "comau_ns16hand_2.Joint_1"
         },
         {
-            "id": "comau_ns16hand.Link_2",
+            "id": "comau_ns16hand_2.Link_2",
             "type": "https://standards.buildingsmart.org/IFC/DEV/IFC4/ADD1/OWL#IfcElementAssembly",
             "representations": [
                 {
-                    "file": "comau_ns16hand.glb#Link_2",
+                    "file": "comau_ns16hand_2.glb#Link_2",
                     "unit": 1
                 }
             ],
@@ -637,15 +637,15 @@
                 0,
                 0
             ],
-            "placementRelTo": "comau_ns16hand.Joint_2",
-            "parentObject": "comau_ns16hand.Joint_2"
+            "placementRelTo": "comau_ns16hand_2.Joint_2",
+            "parentObject": "comau_ns16hand_2.Joint_2"
         },
         {
-            "id": "comau_ns16hand.Link_3",
+            "id": "comau_ns16hand_2.Link_3",
             "type": "https://standards.buildingsmart.org/IFC/DEV/IFC4/ADD1/OWL#IfcElementAssembly",
             "representations": [
                 {
-                    "file": "comau_ns16hand.glb#Link_3",
+                    "file": "comau_ns16hand_2.glb#Link_3",
                     "unit": 1
                 }
             ],
@@ -659,15 +659,15 @@
                 0,
                 0
             ],
-            "placementRelTo": "comau_ns16hand.Joint_3",
-            "parentObject": "comau_ns16hand.Joint_3"
+            "placementRelTo": "comau_ns16hand_2.Joint_3",
+            "parentObject": "comau_ns16hand_2.Joint_3"
         },
         {
-            "id": "comau_ns16hand.Link_4",
+            "id": "comau_ns16hand_2.Link_4",
             "type": "https://standards.buildingsmart.org/IFC/DEV/IFC4/ADD1/OWL#IfcElementAssembly",
             "representations": [
                 {
-                    "file": "comau_ns16hand.glb#Link_4",
+                    "file": "comau_ns16hand_2.glb#Link_4",
                     "unit": 1
                 }
             ],
@@ -681,15 +681,15 @@
                 0,
                 0
             ],
-            "placementRelTo": "comau_ns16hand.Joint_4",
-            "parentObject": "comau_ns16hand.Joint_4"
+            "placementRelTo": "comau_ns16hand_2.Joint_4",
+            "parentObject": "comau_ns16hand_2.Joint_4"
         },
         {
-            "id": "comau_ns16hand.Link_5",
+            "id": "comau_ns16hand_2.Link_5",
             "type": "https://standards.buildingsmart.org/IFC/DEV/IFC4/ADD1/OWL#IfcElementAssembly",
             "representations": [
                 {
-                    "file": "comau_ns16hand.glb#Link_5",
+                    "file": "comau_ns16hand_2.glb#Link_5",
                     "unit": 1
                 }
             ],
@@ -703,15 +703,15 @@
                 0,
                 0
             ],
-            "placementRelTo": "comau_ns16hand.Joint_5",
-            "parentObject": "comau_ns16hand.Joint_5"
+            "placementRelTo": "comau_ns16hand_2.Joint_5",
+            "parentObject": "comau_ns16hand_2.Joint_5"
         },
         {
-            "id": "comau_ns16hand.Link_6",
+            "id": "comau_ns16hand_2.Link_6",
             "type": "https://standards.buildingsmart.org/IFC/DEV/IFC4/ADD1/OWL#IfcElementAssembly",
             "representations": [
                 {
-                    "file": "comau_ns16hand.glb#Link_6",
+                    "file": "comau_ns16hand_2.glb#Link_6",
                     "unit": 1
                 }
             ],
@@ -725,8 +725,8 @@
                 0,
                 0
             ],
-            "placementRelTo": "comau_ns16hand.Joint_6",
-            "parentObject": "comau_ns16hand.Joint_6"
+            "placementRelTo": "comau_ns16hand_2.Joint_6",
+            "parentObject": "comau_ns16hand_2.Joint_6"
         }
 	
     ]
