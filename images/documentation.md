@@ -89,7 +89,7 @@ We now focus on the IDEF0 diagram of A4 step. It is a tool developed to describe
 
 The following image is schematizing the whole process:
 
-![](img2.PNG)
+![](img2.png)
 
 Meanwhile, this is specific for the software used in the examples:
 
