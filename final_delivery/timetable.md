@@ -42,28 +42,31 @@ During those days they have been sided by Politecnico's students and tutors to o
 ### Work organization
 (Agenda)
 
-- Topic #1:
-- Topic #2:
-.
-.
-.
-- Topic #n:
-
-
-
 |          | Monday         | Tuesday   | Wednesday | Thursday  | Friday    |
 |:---------|:---------------|:----------|:----------|:----------|:----------|
-| Morning  | Welcome session| VR and Robotics lab  | Challenges  | XR labs  | Challenges  |
-| Afternoon| Lecture    | Challenges |Challenges |   XR labs  |Final Demostration and Project presentation |
+| Morning  | Welcome session| VR and Robotics lab  | Challenges  | XR lab  | Groupwork  |
+| Afternoon| Lecture    | Challenges |Challenges |   XR lab  |Final Demostration and Project presentation |
 
 
-### Topic #1: 
-(Description and details of the tasks or activities performed in this topic)
+### Welcome session: 
+During the welcome session professor Urgo explained how the week would have been organized. Students had the possibility to start knowing themselves.
 
-### Topic #2:
-.
-.
-.
-### Topic #n: 
+Students had the possibility to have a clear and complete view of MADE competence center in Politecnico di Milano (Candiani). In particular had possibility to touch and get in contasct with VR visors and augmented reality glasses. Moreover, all the robotics researches on course in the lab were showed to them to have a broad view about the possible robot applications.
+### Introductory lecture:
+The lecture on monday afternoon was about the...
+
+### VR and Robotics lab at CNR:
+Before starting working with the challenges, students visited the VR labs at STIIMA-CNR and the Robotic lab, the one it will have been later rrepresented in a virtual environment.
+
+### Challenges:
+On Tuesday afternoon the solving of the challenges officially started. 4 groups were created considering the different nationalities of the students to have the most various mix of skills and cultures.
+
+The work on the challenges continued, for approximately one day and a half. During this time students also started to get ready for the final presentation.
+
+
+### XR lab:
+On Thurday, the students had the possibility to directly work with visors and Unity software. After getting in contact with some possible applications like the building of a robot, the trajectory visualization they worked to track their movements with a special camera and animate a 3D model in Unity environment.
+
+### Groupwork to create the final presentation:
 
 ### final presentation
