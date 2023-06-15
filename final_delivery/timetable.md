@@ -53,8 +53,8 @@ During those days they have been sided by Politecnico's students and tutors to o
 
 |          | Monday         | Tuesday   | Wednesday | Thursday  | Friday    |
 |:---------|:---------------|:----------|:----------|:----------|:----------|
-| Morning  | Welcome session| Topic #2  | Topic #4  | Topic #6  | Topic #8  |
-| Afternoon| Topic #1        | Topic #3 |Topic #5 |   Topic #8  |Final Demostration and Project presentation |
+| Morning  | Welcome session| VR and Robotics lab  | Challenges  | XR labs  | Challenges  |
+| Afternoon| Lecture    | Challenges |Challenges |   XR labs  |Final Demostration and Project presentation |
 
 
 ### Topic #1: 
