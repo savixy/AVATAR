@@ -33,6 +33,11 @@ On thursday they had the possibility to visit the XR Laboratories at POLIMI and 
 
 The last day was dedicated to the completion of the final presentation and the relative exposition.
 ### Student challenge
+Most of the students' time and effort was devoted to the solving of challenges on Tuesday and Wednesday.
+
+The challenges were about working with robots inside the robotic laboratory in CNR. Virtual environment, robot trajectories and MQTT protocol were the main topics they got in contact with.
+
+During those days they have been sided by Politecnico's students and tutors to overcame the most difficult obstacles. 
 
 ### Work organization
 (Agenda)
