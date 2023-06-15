@@ -23,9 +23,14 @@ The JLL (Joint Learning Lab) has been a week, inside the AVATAR Erasmus+ project
 ## Welcoming and hosting
 
 ## Overall organisation of the joint learning lab 
-During the JLL 3 main activities has been completed by the students. On Monday, after a brief introduction from professor Urgo they had the possibility to visit the VR Cave inside the MADE competence center to get in contact with VR/AR technologies. The afternoon was dedicated to introductory lecture.
+During the JLL 3 main activities has been completed by the students. 
+
+On Monday, after a brief introduction from professor Urgo they had the possibility to visit the VR Cave inside the MADE competence center to get in contact with VR/AR technologies. The afternoon was dedicated to introductory lecture.
+
 Second and third days the students were involved in the solving of the challenges at STIIMA-CNR.
+
 On thursday they had the possibility to visit the XR Laboratories at POLIMI and touch with hand visiors and applications.
+
 The last day was dedicated to the completion of the final presentation and the relative exposition.
 ### Student challenge
 
