@@ -19,7 +19,7 @@ has_children: false
 </details>
 
 ## About Joint Learning Lab 2023 - JLL 2023
-
+The JLL (Joint Learning Lab) has been a week, inside the AVATAR Erasmus+ project, where students coming from university University of Belgrade, Grenoble INP and Politecnico faced challenges about VR/AR to understand the potentialities of those technologies.
 ## Welcoming and hosting
 
 ## Overall organisation of the joint learning lab 
