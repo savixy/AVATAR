@@ -53,7 +53,7 @@ During the welcome session professor Urgo explained how the week would have been
 
 Students had the possibility to have a clear and complete view of MADE competence center in Politecnico di Milano (Candiani). In particular had possibility to touch and get in contasct with VR visors and augmented reality glasses. Moreover, all the robotics researches on course in the lab were showed to them to have a broad view about the possible robot applications.
 ### Introductory lecture:
-The lecture on monday afternoon was about the...
+The lecture on monday afternoon about digital twin and VR/AR technologies
 
 ### VR and Robotics lab at CNR:
 Before starting working with the challenges, students visited the VR labs at STIIMA-CNR and the Robotic lab, the one it will have been later rrepresented in a virtual environment.
