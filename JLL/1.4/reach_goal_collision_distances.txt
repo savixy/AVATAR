@@ -1,0 +1,20 @@
+Trajectory1:
+Reach the goal -> yes
+Collisions -> yes
+
+Trajectory2:
+Reach the goal -> no
+Collisions -> yes
+
+Trajectory3:
+Reach the goal -> short way, right speed, yes
+Collisions -> no
+
+Trajectory4:
+Reach the goal -> long way, low speed, yes
+Collisions -> no
+
+The distance between the tool and workpiece 1 during trajectory 1 is: 0.03678380804238052
+The distance between the tool and workpiece 1 during trajectory 2 is: 0.1712154180741089
+The distance between the tool and workpiece 1 during trajectory 3 is: 0.03678380804238052
+The distance between the tool and workpiece 1 during trajectory 4 is: 0.03678380804238052

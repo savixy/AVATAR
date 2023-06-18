@@ -1,0 +1,3 @@
+GENERATE.m is a MATLAB script which generates a interpolation between the begining and ending point, uses the generated data as the new trajectory of the robot joints and transcribes them to a .txt file which is easily converted manually to a .json file. After generating the new trajectory, we have to convert it into an animation for VEB.js using the TRANSLATE.py script.
+
+We compelte the challenge 3 with Unity.

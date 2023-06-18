@@ -1,0 +1,9 @@
+Take the first position of the joint from the challenge​
+
+Manually in Unity threw the animation create the final keys for each joint ​
+
+Add a middle position to guide the tool in order to avoid the collision​
+
+Fill the animator and play​
+
+Esport the file .anim​

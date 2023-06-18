@@ -1,0 +1,5 @@
+Trajectory5:
+Reach the goal -> no
+Collisions -> no
+
+The distance between the tool and workpiece 1 during trajectory 5 is: 0.07993433846638057
