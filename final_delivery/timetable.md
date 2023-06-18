@@ -56,6 +56,5 @@ The work on the challenges continued, for approximately one day and a half. Duri
 ### XR lab:
 On Thurday, the students had the possibility to directly work with visors and Unity software. After getting in contact with some possible applications like the building of a robot, the trajectory visualization they worked to track their movements with a special camera and animate a 3D model in Unity environment.
 
-### Groupwork to create the final presentation:
-
-### final presentation
+### Groupwork to create the final presentation and final presentation
+The last day was dedicated to the creation of the presentation and the exposure of it
