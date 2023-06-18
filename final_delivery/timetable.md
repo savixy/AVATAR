@@ -6,17 +6,6 @@ grand_parent: Toolkit Guideline
 nav_order: 2
 has_children: false
 ---
-# Navigation Structure
-{: .no_toc }
-
-<details open markdown="block">
-  <summary>
-    Table of contents
-  </summary>
-  {: .text-delta }
-- TOC
-{:toc}
-</details>
 
 ## About Joint Learning Lab 2023 - JLL 2023
 The JLL (Joint Learning Lab) has been a week, inside the AVATAR Erasmus+ project, where students coming from university University of Belgrade, Grenoble INP and Politecnico faced challenges about VR/AR to understand the potentialities of those technologies.
